@@ -1,5 +1,5 @@
-module github.com/TutorialEdge/realtime-chat-go-react
+module react-go-app
 
 go 1.18
 
-require github.com/gorilla/websocket v1.5.0 // indirect
+require github.com/gorilla/websocket v1.5.0
